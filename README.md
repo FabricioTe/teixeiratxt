@@ -1,0 +1,2 @@
+# teixeiratxt
+conteudo de estudos
